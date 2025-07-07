@@ -1,0 +1,62 @@
+{
+  "en": {
+    "page_title": "Financial Chart Viewer",
+    "chart_title": "Comparative Stock Price Trend",
+    "chart_subtitle": "NIFTY Bank vs Another Stock",
+    "legend_nifty": "NIFTY BANK",
+    "legend_stock": "Uploaded Stock",
+    "upload_nifty": "Upload NIFTY BANK CSV",
+    "upload_stock": "Upload Other Stock CSV",
+    "upload_notes": "Notes CSV (Date,Comment)",
+    "show_notes": "Show Notes on Chart",
+    "preset": "Zoom Preset",
+    "slider_label": "Select Date Range",
+    "notes_summary": "Notes Summary",
+    "annotation_text": "Annotations"
+  },
+  "ta": {
+    "page_title": "நிதி விளக்கப்பட காட்சி",
+    "chart_title": "ஒப்பீட்டு பங்கு விலை போக்கு",
+    "chart_subtitle": "நிப்டி வங்கி மற்றும் மற்றொரு பங்கு",
+    "legend_nifty": "நிப்டி வங்கி",
+    "legend_stock": "பதவியக்கம் செய்யப்பட்ட பங்கு",
+    "upload_nifty": "நிப்டி வங்கி CSV பதிவேற்று",
+    "upload_stock": "மற்றொரு பங்கு CSV பதிவேற்று",
+    "upload_notes": "குறிப்புகள் CSV (தேதி, குறிப்பு)",
+    "show_notes": "விளக்கங்களை காண்பிக்கவும்",
+    "preset": "நேர வரம்பு தேர்வு",
+    "slider_label": "தேதி வரம்பைத் தேர்ந்தெடுக்கவும்",
+    "notes_summary": "குறிப்பு சுருக்கம்",
+    "annotation_text": "குறிப்புகள்"
+  },
+  "hi": {
+    "page_title": "वित्तीय चार्ट दर्शक",
+    "chart_title": "तुलनात्मक स्टॉक मूल्य रुझान",
+    "chart_subtitle": "निफ्टी बैंक बनाम अन्य स्टॉक",
+    "legend_nifty": "निफ्टी बैंक",
+    "legend_stock": "अपलोड किया गया स्टॉक",
+    "upload_nifty": "निफ्टी बैंक CSV अपलोड करें",
+    "upload_stock": "अन्य स्टॉक CSV अपलोड करें",
+    "upload_notes": "नोट्स CSV (तारीख, टिप्पणी)",
+    "show_notes": "नोट्स दिखाएं",
+    "preset": "ज़ूम प्रीसेट",
+    "slider_label": "तारीख सीमा चुनें",
+    "notes_summary": "नोट्स सारांश",
+    "annotation_text": "टिप्पणियाँ"
+  },
+  "ja": {
+    "page_title": "デュアル軸ファイナンシャルチャートビューア",
+    "chart_title": "比較株価トレンド",
+    "chart_subtitle": "NIFTYバンクと他の株",
+    "legend_nifty": "NIFTYバンク",
+    "legend_stock": "アップロードされた株",
+    "upload_nifty": "NIFTYバンクのCSVをアップロード",
+    "upload_stock": "別の株のCSVをアップロード",
+    "upload_notes": "注釈CSV（日付、コメント）",
+    "show_notes": "チャート上に注釈を表示",
+    "preset": "ズームプリセット",
+    "slider_label": "日付範囲を選択",
+    "notes_summary": "注釈の概要",
+    "annotation_text": "注釈"
+  }
+}
